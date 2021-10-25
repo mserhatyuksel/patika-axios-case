@@ -1,0 +1,23 @@
+{
+  "name": "patika-axios-case",
+  "version": "1.0.0",
+  "description": "patika.dev React patikası Ödev-1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mserhatyuksel/patika-axios-case.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mserhatyuksel/patika-axios-case/issues"
+  },
+  "homepage": "https://github.com/mserhatyuksel/patika-axios-case#readme",
+  "dependencies": {
+    "axios": "^0.23.0"
+  }
+}
